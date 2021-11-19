@@ -71,4 +71,12 @@ SED로 진행하기 위해서는 다음이 필요합니다.
 $sed[옵션] 스크립트 입력파일1 [입력파일2 ...]
 ```
 
+* 옵션
+
+![image](https://user-images.githubusercontent.com/66530743/142616294-a5f64eaa-d46c-4ed8-abfe-fdc8e3ac60ad.png)
+
+```
+주로 사용하는 옵션 -n, -e, -f
+```
+
 ### awk 명령어
